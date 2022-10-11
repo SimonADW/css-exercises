@@ -1,0 +1,19 @@
+.oddetall {
+   font-family: Verdana, "DejaVu-Sans", sans-serif;
+   background-color: rgb(217, 177, 213);
+}
+
+#oneID {
+    color: rgb(18, 18, 207);
+    font-size: 36px;
+}
+
+.third {
+    font-size: 24px;
+}
+
+#anotherID {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(116, 193, 116);    
+}   
